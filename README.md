@@ -26,3 +26,33 @@ Zbuduj podstawową aplikację w **NativeScript używając framework Angular**, k
 - [ ] Integracja z **API** (GET/POST).
 - [ ] Walidacja formularza + podstawowa obsługa błędów.
 - [ ] Aktualizacja `README.md`, zrzuty ekranów, min. 3 commity.
+
+
+## Wymagania
+
+Do uruchomienia aplikacji wymagane są:
+
+- Windows
+- Node.js 18.20.4 (LTS)
+- NativeScript CLI
+- Android Studio
+- Android SDK
+- JDK 17
+- Telefon z Androidem lub emulator Androida
+
+---
+
+## Instalacja środowiska
+
+### 1. Node.js
+Zainstaluj Node.js w wersji:
+- Node.js 18.20.4 (LTS)
+
+https://nodejs.org
+
+---
+
+### 2. NativeScript CLI
+Zainstaluj CLI:
+```bash
+npm install -g nativescript@8.8.3
