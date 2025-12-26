@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@nativescript/camera": "^7.0.0"
+  }
+}
